@@ -14,3 +14,8 @@ AY24/25 Sem2, the NUS Neural Networks(EE5904) course projects consist of two par
 ### HW3
 * Q1. Function Approximation with RBFN
 * Q2. Handwritten Digits Classification using RBFN
+
+## Part II:
+
+### SVM
+### RL 
