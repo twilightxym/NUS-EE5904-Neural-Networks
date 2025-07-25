@@ -21,3 +21,5 @@ AY24/25 Sem2, the NUS Neural Networks(EE5904) course projects consist of two par
 * [SVM for Classification of Spam Email Messages](Part_II/SVM)
 ### RL 
 * [Q-Learning for World Grid Navigation](Part_II/RL)
+<img width="427" height="411" alt="image" src="https://github.com/user-attachments/assets/2b8ff0b8-d5c7-4bd1-aab5-71922cceaf8f" />
+![Uploading image.png…]()
